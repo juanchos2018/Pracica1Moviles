@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pracica1-Moviles</string>
+    <string name="boton1"> ver</string>
+    <string name="boton2">Contar</string>
+    <string name="txt1" >0</string>
+    <string name="mensaje">cotando </string>
+</resources>
