@@ -27,7 +27,7 @@
         android:layout_height="wrap_content"
         android:background="@color/colorboton"
         android:onClick="Mostrar"
-        android:text="Button"
+        android:text="@string/boton1"
         app:layout_constraintTop_toTopOf="parent"
         tools:layout_editor_absoluteX="-31dp"
         tools:text="@string/boton1" />
@@ -38,7 +38,7 @@
         android:layout_height="wrap_content"
         android:background="@color/colorboton"
         android:onClick="Contar"
-        android:text="Button"
+        android:text="@string/boton2"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         tools:text="@string/boton2" />
